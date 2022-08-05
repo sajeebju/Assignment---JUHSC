@@ -1,1 +1,0 @@
-JUHSC Python for data science program assignments
